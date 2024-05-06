@@ -49,4 +49,15 @@ Target = **`is_converted` , 영업성공여부**
 
 경진대회의 결과 지표를 계산하기 위해서 분류(classification) 지표인 F1 Score를 활용합니다.
 
-![수식](https://www.notion.so/potatochu/LG-Aimers-9c9a3d679889436b9aa0b5639d8d78a9?pvs=4#cd33c3d2fe644f88a4e80656e8cd9433)
+![수식](https://github.com/KeonhoChu/LG_Ai/blob/main/mth.png?raw=true)
+
+
+### 대회 결과 
+
+| 전체랭킹   | 총점        |
+|-----------|------------|
+| 59위/844팀중 | 0.766316점 |
+
+
+
+
