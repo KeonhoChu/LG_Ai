@@ -1,5 +1,8 @@
-# LG-Aimers
+<p align="center">
+  <img src="https://www.lgresearch.ai/data/upload/image/blog/LG_AI_Research_LG_Aimer_Hackathon_thumbnail_c3d603fc1.png" alt="LG" width="500" height="300">
+</p>
 
+# LG-Aimers
 ### **1. 영업 성공 여부 분류 경진대회 개요**
 
 최근 기계학습 분야가 크게 발전하게 된 만큼 연구도 활발해져서 기존의 전통적인 모델보다 더 높은 성능을 내는 모델도 다수 등장하고 있습니다. 더불어서 영업 과정에서 전환 가능성이 높은 고객에게 영업 자원을 집중하기 위해 고객의 전환 여부를 예측하기 위해 기계학습을 도입하고 있습니다.
