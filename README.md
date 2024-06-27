@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://www.lgresearch.ai/data/upload/image/blog/LG_AI_Research_LG_Aimer_Hackathon_thumbnail_c3d603fc1.png" alt="LG" width="500" height="300">
 </p>
-Certainly! Here's the detailed `README.md` file in English and in Markdown format:
 
 ---
 
